@@ -37,8 +37,7 @@
     </div>
 
 
-
-    
+ 
 
     <!-- Section 3: Be a Volunteer -->
     <div class="box">
@@ -357,5 +356,14 @@ body{
  
 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9bc635', endColorstr='#c0ea67',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.donationformclass{
+  height: 400px;
+  width: 400px;
+  margin: 20px auto;
+  margin-top:20px;
+  border-radius:15px;
+  box-shadow: 1px 2px 10px 0px rgba(0,0,0,0.3);
 }
 </style>

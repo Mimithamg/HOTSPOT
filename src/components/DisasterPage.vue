@@ -22,7 +22,7 @@
     <!-- Resource List -->
     <ResourceList />
 
-    
+    <UserRegistration />
 
     <!-- Add more content for the disaster page here -->
   </div>
@@ -32,7 +32,7 @@
 import LocationPermissionModal from '@/components/LocationPermissionModal.vue';
 import DonationForm from '@/components/DonationForm.vue';
 import ResourceList from '@/components/ResourceList.vue';
-
+import UserRegistration from '@/components/UserRegistration.vue';
 export default {
   data() {
     return {
@@ -60,6 +60,7 @@ export default {
   components: {
     LocationPermissionModal,
     DonationForm,
+    UserRegistration,
     ResourceList,
   },
 };
