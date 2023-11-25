@@ -39,14 +39,7 @@
 
  
 
-    <!-- Section 3: Be a Volunteer -->
-    <div class="box">
-      <h1>Be a Volunteer</h1>
-      <div class="content">
-        <p>We are inviting people to volunteer for our community if they are passionate about having a good impact on their communities. As a volunteer, you will have the chance to devote your time, talents, and efforts to assisting those in need and changing the world for the better.</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSemP2P5WB-kj1VKg0OSCqVZnGSYvJxSEVgwoCp99bvY-iklYQ/viewform?usp=sf_link" class="btn">Be with Us</a>
-      </div>
-    </div>
+    
 
     
 
